@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "this is sample",
+  "main": "index.js",
+  "scripts": {
+    
+    "start":"nodemon index.js"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pokemon": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
